@@ -1,15 +1,15 @@
 # 📊 Minute Mapping System – Excel Template
 ## 🧾 Purpose
-This tool maps VoIP call data (CDRs) to carriers based on IP addresses. It calculates the total minutes done by each carrier, providing accurate data for billing and reporting. 
+These files maps VoIP call data (CDRs) to carriers based on IP addresses. It calculates the total minutes done by each carrier, providing accurate data for billing and reporting. 
 ---
 ## 📂 Files Included
 ### 1. *IP File (Working File 1)*
 - *Sheet 1:* List of carriers and their corresponding IPs.
-- *Sheet 2:* Paste the raw CDR data here.
+- *Sheet 2:* Paste the raw CDR data.
 - *Functionality:* Uses Excel formulas (such as `SUMIF`) to calculate total minutes per IP.
 ### 2. *Minute Mapping Dashboard (Working File 2)*
 - *Sheet "H":* Displays daily totals, weekly summaries (W1–W5), and final comparison.
-- *Sheets W1–W5:* Optional weekly summary sheets.
+- *Sheets W1–W5:* Weekly summary sheets.
 - *Sheets 1–31:* Daily data entry for each day of the month.
 ### 3. *Sample CDR File*
 - A test file with dummy data to help you understand the workflow.
