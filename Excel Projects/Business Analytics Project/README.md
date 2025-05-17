@@ -1,6 +1,6 @@
 # 📊 Minute Mapping System – Excel Template
 ## 🧾 Purpose
-This tool maps VoIP call data (CDRs) to carriers based on IP addresses. It calculates the total minutes handled by each carrier, providing accurate data for billing, reporting, and reconciliation.
+This tool maps VoIP call data (CDRs) to carriers based on IP addresses. It calculates the total minutes done by each carrier, providing accurate data for billing and reporting. 
 ---
 ## 📂 Files Included
 ### 1. *IP File (Working File 1)*
